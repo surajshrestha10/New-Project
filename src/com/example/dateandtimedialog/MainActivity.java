@@ -24,7 +24,7 @@ public class MainActivity extends Activity {
 	static final int timeDialog = 0;
 	static final int dateDialog = 1;
 	int hour, minute;
-	int yr, month, day;
+	int yr, month, day;// change 1
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
